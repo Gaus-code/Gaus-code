@@ -2,7 +2,7 @@
 👋 Hi, I’m @Gaus-code<br>
 🔭 What I'm working on now is myself, I'm pumping my skills and putting my knowledge into practice<br>
 👯 I'm looking to work with big companies to learn how to work on new projects with modern technology<br>
-🌱 I am currently learning html, css, js, database, SQL, http(s) requests, Node.js
+🌱 I am currently learning html, css, js, database, Node.js
 
 
 ## 🌐 Socials:
